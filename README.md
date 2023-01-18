@@ -1,4 +1,4 @@
-[![GitHub Stars](https://github.com/larsh0103/SSL_Experiement/)
+[![GitHub Stars]https://img.shields.io/github/stars/larsh0103/SSL_Experiment?style=social](https://github.com/larsh0103/SSL_Experiement/)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=larsh0103/SSL_Experiment)
 
 This project uses piptools to manage the virtual environment.
